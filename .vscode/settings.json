@@ -1,0 +1,20 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    ".viceroy": true,
+    "apollo-overrides": true,
+    "release-info": true,
+    "src/*/build": false,
+    "build": false,
+    "env": true,
+    "packageInfo*": true,
+    ".bemol": true,
+    "**/CVS": true,
+    "out": false
+  },
+  "editor.tabSize": 2
+}
