@@ -8,6 +8,7 @@
       "node",
       "jest"
     ],
+    "baseUrl": ".",
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,
@@ -17,11 +18,7 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "incremental": true,
-    "paths": {
-      "@/*": [
-        "./src/*"
-      ]
-    }
+    "sourceMap": true,
   },
   "include": [
     "**/*.ts"

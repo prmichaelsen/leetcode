@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Leetcode problems and solutions",
   "scripts": {
-    "test": "jest",
+    "test": "jest .",
     "lint": "eslint src --ext .ts"
   },
   "repository": {
